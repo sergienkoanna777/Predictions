@@ -1,6 +1,6 @@
 # Predictions
 
-<img src="./.jpg" alt="Image" width="auto">
+<img src="./Prediction.jpg" alt="Image" width="auto">
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
